@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+#btn {
+  background-color: lightblue;
+  border: 2px solid;
+  color: darkblue;
+  margin-bottom: 1%;
+  text-transform: uppercase;
+  line-height: 28px;
+}
+
+#pStyle {
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
