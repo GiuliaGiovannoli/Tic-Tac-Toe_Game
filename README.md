@@ -1,11 +1,35 @@
-Hello there! I am Giulia and I am a full stack Web Developer
+# Hello there! 
 
-My tools are : React, Javascript, Node, Express, HTML, CSS, SQL, MongoDB, Material UI and Bootstrap
+# TIC TAC TOE
 
-You can find me and reach out on Linkedin www.linkedin.com/in/giulia-giovannoli
+## About
 
 About this Project: Simple Tic Tac Toe Game version.
 
-Tools here used: React, Javascript, CSS and HTML
+## Technologies
 
-Thank you for checking the Project!
+This project has been made using:
+
+- JavaScript, [ReactJS](https://reactjs.org/).
+
+## How to Run the Application
+
+1. Npm install
+2. Npm start
+
+It will open automatically the browser at http://localhost:3000 to view it.
+
+### Prerequisites
+
+- [NodeJS](https://nodejs.org/it/download/)
+- [NpmJS](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+## Contacts
+
+Feel free to reach out!
+
+- [Linkedin](https://www.linkedin.com/in/giulia-giovannoli/)
+- [GitHub](https://github.com/GiuliaGiovannoli)
+
+
+# Thank you for checking the Project!
